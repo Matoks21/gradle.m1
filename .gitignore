@@ -13,9 +13,6 @@ build/
 # Файли Eclipse
 .settings/
 
-# Файли Gradle Wrapper
-gradle/wrapper/gradle-wrapper.jar
-gradle/wrapper/gradle-wrapper.properties
 
 # ОС-специфічні файли
 .DS_Store
