@@ -1,0 +1,26 @@
+.idea
+/out
+.iws
+*.iml
+.ipr
+target
+.DS_STORE /src/main/resources/log
+
+# Файли Gradle
+build/
+.gradle/
+
+# Файли Eclipse
+.settings/
+
+# Файли Gradle Wrapper
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# ОС-специфічні файли
+.DS_Store
+Thumbs.db
+
+# Тимчасові файли
+build.gradle~
+
